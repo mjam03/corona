@@ -1,0 +1,11 @@
+eurostat_data/
+ons_data
+pop_estimates.xls
+shpfiles/
+notebooks/data/
+notebooks/.ipynb_checkpoints/
+notebooks/drafts/.ipynb_checkpoints/
+.ipynb/
+notebooks/.ipynb
+notebooks/drafts/.ipynb
+notebooks/ASMR.csv
