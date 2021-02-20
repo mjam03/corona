@@ -1,0 +1,22 @@
+name: corona
+channels:
+  - defaults
+dependencies:
+  - python
+  - beautifulsoup4
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - xlrd
+  - xmltodict
+  - pip:
+    - lxml
